@@ -52,6 +52,7 @@ transition: transform 0.3s ease-in-out;
 }
 
 .recomandat{
+    padding: 1rem;
     text-align: start;
     font-size: 1.3rem;
 }

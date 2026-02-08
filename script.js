@@ -5,8 +5,14 @@ const messages = [
     "Esti sigura?",
     "N-a fost o intrebare",
     "Ultima sansa",
-    "Ok"
+    "Ok",
+    "Ok",
+    "Ok",
+    "Ok",
+    "Incearca in continuare",
+    "Succes"
 ];
+
 
 let index = 0;
 let scale = 1;

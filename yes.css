@@ -1,0 +1,31 @@
+html{
+    font-family: "Playwrite NZ Basic", cursive;
+}
+
+.title-yes{
+    font-size: 5rem;
+
+}
+
+.minioni{
+    padding-block: 3rem;;
+}
+
+.raspuns-yes{
+    font-size: 5rem;
+}
+
+.necesar{
+    width: 100%;
+    display: flex;
+        justify-content: flex-end;
+}
+
+.inapoi{
+    font-size: 1.3rem;
+    border: solid black 1px;
+    border-radius: 3rem;
+    padding: 0.8rem 2rem;
+    margin-inline-end: 4rem;
+    margin-block-start: 8rem;
+}
