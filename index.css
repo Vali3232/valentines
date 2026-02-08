@@ -1,0 +1,57 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    font-size: 62.5%;
+    background-color: rgb(236,196, 203);
+}
+
+main{
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.title{
+    font-size: 2rem;
+    text-align: center;
+    padding: 1rem 2rem;
+    color: white;
+    background-color: #FF4C4C;
+    border-radius: 2rem;
+}
+
+.gifu{
+    width: 40%;
+    margin-block: 5rem;
+}
+
+.choice{
+    text-align: center;    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 8rem;
+}
+
+button{
+min-height: 5rem;
+max-height: fit-content;;
+font-size: 2rem;    
+padding: 1rem 2rem;
+color: white;
+background-color: #FF4C4C;
+border-radius: 2rem;
+transition: transform 0.3s ease-in-out;
+}
+
+.editor{
+    width: 50%;
+}
+
+.recomandat{
+    text-align: start;
+    font-size: 1.3rem;
+}
